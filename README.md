@@ -1,5 +1,15 @@
 # CVSFM-JSP-SERVLET-MVC
 
+## Ceylon vehicle service and fuel management JSP/SERVLETS web application
+
+### Introduction
+
+This application was developed to support fuel and service in a vehicle service environment.
+
+A very simple and was my first JAVA based web application.
+
+# Features
+
 1. Frontend Implementation (MVC Architecture) 
 a) Views implementation (JSP) 
 b) Controller implementation (Servlet) 
